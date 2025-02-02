@@ -62,12 +62,16 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
 ---
 
 
-## 🏆 Achievements
+## 🏆 Achievements 
 
-- Shortlisted for **Ideabazz Competition 2024**.
-- Cleared the final round of **IdeaStorm**, organized by IIT Roorkee, with the **Agriventure** project.
-- 1st Prize, Itech Roots |College Level : Attained 1st position in a competition with 30+ teams showcasing technical expertise.
-- 2nd Prize , Ideathon GCOE Nagpur| College Level : Attained 2nd position in a competition with 24 teams & more .
+- **Finalist, IdeaStorm 2025 – IIT Roorkee** :- Selected for the final round, presenting an innovative agritech solution.  
+- **Finalist, TechnoFeat – FEAT** :- Recognized for technical innovation and problem-solving skills.  
+- **Finalist, Ideabazz Competition 2024** :- Showcased a high-impact entrepreneurial and technical project.  
+- **Finalist, Comp-Ex 24** :- Competed at the national level, demonstrating technical expertise.  
+- **1st Prize, Itech Roots (College Level – Among 30+ Teams)** :- Secured 1st position for outstanding technical and problem-solving skills.  
+- **2nd Prize, Ideathon GCOE Nagpur (College Level – Among 24 Teams)** :- Developed and presented an impactful tech-driven solution.  
+- **Pitched Agriventure at IIM Nagpur** :- Presented an innovative solution at a premier management institute.  
+
 
   
 ---
