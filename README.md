@@ -1,13 +1,13 @@
 # Hello, I'm Raj Patle! 👋  
-### 💻 Aspiring Web Developer & Machine Learning Enthusiast  
+### 💻 Aspiring Web Developer & Machine Learning Enthusiast
 
-Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, **Machine Learning**, and **Competitive Programming**. I love building intelligent solutions that solve real-world problems.  
+Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, **Machine Learning**, and **Competitive Programming**. I love building intelligent solutions that solve real-world problems.
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-patle1308&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Raj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-patle1308&show_icons=true&theme=radical" alt="Raj's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patle1308&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
 
 ---
 
-## 📊 Animated GitHub Contribution  
+## 📊 Normal GitHub Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raj-patle1308&theme=react&area=true" alt="Contribution Graph" />
+  <img src="https://github.com/raj-patle1308/raj-patle1308/blob/output/github-contribution-grid-snake.svg" />
 </p>
