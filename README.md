@@ -42,13 +42,13 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajpatle1308/](https://www.linkedin.com/in/raj-patle-4b6520272">
+  <a href="https://www.linkedin.com/in/raj-patle-4b6520272/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:rajpatle.job@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://raj-patle1308.github.io/">
+  <a href="https://portfolio-omega-lac-54.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.codechef.com/users/rajpatle">
