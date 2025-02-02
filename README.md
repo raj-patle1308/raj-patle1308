@@ -6,9 +6,16 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
 ---
 
 ## 📊 GitHub Stats  
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-patle1308&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-patle1308&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patle1308&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-patle1308&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-patle1308&theme=radical" width="45%" />
+</div>  
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-patle1308&layout=compact&theme=radical" width="50%" />
+</div>  
 
 ---
 
@@ -32,7 +39,7 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
 ---
 
 ## 🔗 Connect with Me  
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rajpatle1308/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -53,7 +60,38 @@ Welcome to my GitHub profile! 😊 I’m passionate about **Web Development**, *
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/raj-patle1308/raj-patle1308/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ---
 
 ## 🐍 GitHub Contribution Snake Animation  
-![Snake animation](https://github.com/raj-patle1308/raj-patle1308/blob/output/github-contribution-grid-snake.svg)
+### **(Ensure It Loads Properly with GitHub Actions)**  
+
+1️⃣ **Create a new workflow**: Go to **GitHub Actions** in your repo, then create a `.github/workflows/snake.yml` file.  
+2️⃣ **Add the following code in `snake.yml`:**  
+
+```yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake
+        with:
+          github_user_name: raj-patle1308
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
+
